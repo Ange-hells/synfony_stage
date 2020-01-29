@@ -1,0 +1,7 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+Hello_world:
+    path: /
+    controller: App\Controller\page1::index
