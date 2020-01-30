@@ -5,12 +5,12 @@ namespace App\Entity;
 use Doctrine\ORM\Mapping as ORM;
 
 /**
- * Table
+ * Test
  *
- * @ORM\Table(name="table")
+ * @ORM\Table(name="test")
  * @ORM\Entity
  */
-class Table
+class Test
 {
     /**
      * @var int

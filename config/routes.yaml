@@ -2,8 +2,16 @@
 #    path: /
 #    controller: App\Controller\DefaultController::index
 
+
+Table:
+    path: /
+    controller: App\Controller\TableController::index
+
 Hello_world:
     path: /
     controller: App\Controller\page1::index
 
-    
+
+page:
+    path: /show
+    controller: App\Controller\TableController::show
