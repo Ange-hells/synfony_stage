@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "askForPassword": false,
+            "database": "db_symfony_stage",
+            "dialect": "MySQL",
+            "isActive": false,
+            "isConnected": false,
+            "name": "symfony_stage",
+            "port": 3306,
+            "server": "localhost",
+            "username": "root"
+        }
+    ]
+}
