@@ -11,7 +11,10 @@ Hello_world:
     path: /
     controller: App\Controller\page1::index
 
-
 page:
     path: /show
     controller: App\Controller\TableController::show
+
+form:
+    path: /form
+    controller: App\Controller\formController::new
